@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kaisuu.aternos.me",
-    "port": 58949,
+    "ip": "kaisuu.aternos.me:58949",
+    "port": 30660,
     "version": "",
     "try-creative": false
   },
